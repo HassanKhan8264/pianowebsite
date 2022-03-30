@@ -1,0 +1,88 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:700;
+}
+body{
+    margin:0;
+    padding:0;
+    background-color:rgb(224, 221, 221)
+
+
+}
+img{
+    width:40px;
+    height: 40px;
+}
+.header{
+    border-radius:50px;
+    width:inherit;
+    height:80px;
+    background-color:rgb(245, 207, 207);
+
+}
+.header ul{
+    background-color:;
+    margin:0px 0px 0px 40px;
+    border:;
+    height:80px;
+    width:50%;
+    
+}
+.header ul li{
+    display:inline;
+    padding: 30px 0px 10px 30px;
+    float:left;;
+    width:;
+
+}
+li a{
+    text-decoration:none;
+    color:black;
+}
+.img1 img{
+    width:300px;
+    height:300;
+
+}
+li a:hover{
+    color:black;
+   text-decoration:underline;
+   background-color:white;
+   
+}
+.header2{
+    background-color:rgb(130, 130, 240);
+    height:50px;
+    border-radius:50px;
+}
+.header2 p:hover{
+    color:whitesmoke;
+    text-decoration:underline;
+    
+} 
+.header2 p{
+    padding:15px 0px 0px 20px;
+    width:10%;
+
+}
+.form{
+    background-color:rgb(204, 197, 197);
+    border-radius:10px;
+    margin:10px 0px 0px 20px;
+    width:300px;
+    height:400px;
+    padding:;
+}
+.form input{
+    height:20px;
+    border-radius:10px;
+    background-color:bisque;
+    margin:10px 0px 0px 10px;
+}.form select{
+    margin:10px 0px 0px 20px;
+    padding:0px 0px 0px 20px;
+}
+.form textarea{
+    margin:10px 0px 0px 10px;
+    
+}
